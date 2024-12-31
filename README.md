@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sreeviswa-12
+- 👋 Hi, I’m 
 - 👀 I’m interested in learning new technology 
 - 🌱 I done a certification on java advanced 
 - 💞️ I’m looking to collaborate on IT company 
-- 📫 How to reach me sreeviswab001@gmail.com and my number is 8825939300
+- 📫 How to reach me sreeviswab001@gmail.com and my number is 7806840346
 - 🙂 I will give my level best to the company which I'm working
 
 <!---
